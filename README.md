@@ -6,7 +6,7 @@
 Tom, a Colorado Board of Elections employee, was tasked to do an election audit of their congressional precinct using Python. We were able to help him get the total votes, the number of votes for each candidate and their percentages, and the winner of the popular vote. 
 
 ### Objective
-After successfully automating the election audit, he election commission has requested some additional data to complete the audit: (1) the voter turnout for each county, (2) the percentage of votes from each county out of the total county and (3) the county with the highest turnout.
+After successfully automating the election audit, the Election Commission has requested some additional data to complete the audit: (1) the voter turnout for each county, (2) the percentage of votes from each county out of the total county and (3) the county with the highest turnout.
 
 ## II. [Election-Audit Results](PyPoll_Challenge.py)
 
@@ -25,9 +25,13 @@ After successfully automating the election audit, he election commission has req
 - Raymon Anthony Doane received **11,606 votes** for **3.1%** of the total votes.
 - **Diana DeGette won this election**  with 272,892 votes and 73.8% of the total votes.
 
+### C. Providing the Results
+These results were saved in **election_result.txt** to so we can esily provide them to the Election Commission.   
+![](Resources/code.png)
 
-These results were saved into a file 
+The results saved in the file is shown below:
 
+![](Resources/election_results_text_file.png)
 
 ## III. Election-Audit Summary
 

@@ -31,8 +31,12 @@ These results were saved in **election_result.txt** to so we can esily provide t
 
 The results saved in the file is shown below:
 
-![](Resources/election_results_text_file.png)
+![](Resources/election_results_text_file.PNG)
 
 ## III. Election-Audit Summary
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+Given the Tom's success in automating the election audit process for the congressional district elections. Tom can now propose using Python for election audits in other types of elections to the ELection Commission. The script we provided them is very flexible and can be modified for use in : **(1) local elections (using city data), (2) other congressional districts (using data from other counties), (3) senatorial districts (using statewide data) (4) and the whole country (using combined data from all the states)**.
+
+Other possible applications are scrutinizing the areas with **low voter registration** and **low voter turnout** which is the **(number of votes casted) / (number of registered voters)**. 
+
+

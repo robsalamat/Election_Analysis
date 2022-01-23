@@ -10,16 +10,23 @@ After successfully automating the election audit, he election commission has req
 
 ## II. [Election-Audit Results](PyPoll_Challenge.py)
 
-### Summary
-- There were a total of 369,711 votes cast in this election.
+### A. Total Votes
+- There were a **total of 369,711 votes** cast in this election.
 
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+### B. County Turnout
+- Jefferson county cast **38,855 votes** for **10.5%** of the total votes.
+- Denver county cast **306,055** votes for **82.8%** of the total votes.
+- Arapahoe county cast **24,801** votes for **6.7%** of the total votes.
+- **Denver has the largest number of votes** cast at 306,055.
 
-- Which county had the largest number of votes?
+### C. Election Results
+- Charles Casper Stockham received **85,213 votes** for **23.0%** of the total votes.
+- Diana DeGette received **272,892 votes** for **73.8%** of the total votes.
+- Raymon Anthony Doane received **11,606 votes** for **3.1%** of the total votes.
+- **Diana DeGette won this election**  with 272,892 votes and 73.8% of the total votes.
 
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+These results were saved into a file 
 
 
 ## III. Election-Audit Summary

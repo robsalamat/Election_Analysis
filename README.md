@@ -35,7 +35,7 @@ The results saved in the file is shown below:
 
 ## III. Election-Audit Summary
 
-Given the Tom's success in automating the election audit process for the congressional district elections. Tom can now propose using Python for election audits in other types of elections to the ELection Commission. The script we provided them is very flexible and can be modified for use in : **(1) local elections (using city data), (2) other congressional districts (using data from other counties), (3) senatorial districts (using statewide data) (4) and the whole country (using combined data from all the states)**.
+Given the Tom's success in automating the election audit process for the congressional district elections. Tom can now propose using Python for election audits in other types of elections to the Election Commission. The script we provided them is very flexible and can be modified for use in : **(1) local elections (using city data), (2) other congressional districts (using data from other counties), (3) senatorial districts (using statewide data) (4) and the whole country (using combined data from all the states)**.
 
 Other possible applications are scrutinizing the areas with **low voter registration** and **low voter turnout** which is the **(number of votes cast) / (number of registered voters)**. 
 
